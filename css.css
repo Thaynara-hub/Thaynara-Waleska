@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/497724053885550602/710101409642840105/2Q.png");
+    font-family:Monotype Corsiva;
+    background-size: auto 150vh;
+    height:150vh
+  }
+  .menu{
+    background-color:#8b3aaa;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style:none;
+  }
+  a{
+    color:tear;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+    color:#72108b;
+  }
+  .site-subtitle {
+    color:#47108b;
+    text-align: center;
+  }
